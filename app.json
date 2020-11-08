@@ -36,8 +36,8 @@
   },
   "scripts": {
     "postdeploy": [
-      "php bot/console install",
-      "php bot/console set"
+      "php src/console install",
+      "php src/console set"
     ]
   }
 }
