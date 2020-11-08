@@ -15,6 +15,14 @@ You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me
 - Checkers
 - Pool Checkers
 
+
+
+This project is hosted on [Heroku](https://heroku.com), you can easily deploy it using button below.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
+
 ## Notes
 
 Translations support is implemented but it is not used mainly because same translated text would be displayed to both players, can be problematic in 'gaming' groups - people setting language that other player can't understand!
