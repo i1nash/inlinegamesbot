@@ -1,7 +1,7 @@
 {
   "name": "Inline Games",
   "description": "A Telegram bot providing games that can be played in any chat.",
-  "repository": "https://github.com/jacklul/inlinegamesbot",
+  "repository": "https://github.com/i1nash/inlinegamesbot",
   "logo": "https://raw.githubusercontent.com/jacklul/inlinegamesbot/master/logo.png",
   "buildpacks": [
     {
@@ -14,11 +14,11 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Bot API token obtained from @BotFather",
-      "value": ""
+      "value": "1411177497:AAEvkhK9cX6wg9E-xO1ncMqQVbVJRg58sXs"
     },
     "BOT_USERNAME": {
       "description": "Bot username (without '@' symbol)",
-      "value": ""
+      "value": "i1gbot"
     },
     "BOT_WEBHOOK": {
       "description": "Webhook URL",
@@ -30,7 +30,7 @@
     },
     "BOT_ADMIN": {
       "description": "Admin's Telegram ID",
-      "value": "",
+      "value": "582633064",
       "required": false
     }
   },
